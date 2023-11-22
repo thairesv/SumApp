@@ -2,6 +2,7 @@
 ## Homework 1 submission
 ---
 SummingUp is a web application that Sum two values. 
+
 These are the screenshots of it working:
 
 ![image](https://github.com/thairesv/Homework1/assets/145288735/ca371da8-11e8-406e-85db-896f76b12748)
@@ -11,6 +12,7 @@ This is an example of working on localhost:
 ![image](https://github.com/thairesv/Homework1/assets/145288735/fbd4961c-f073-4635-88ca-e2340fb7d318)
 
 This is an example of working via localtunnel and with decimal numbers:
+
 ![image](https://github.com/thairesv/Homework1/assets/145288735/0b57f6a1-2498-439b-bb11-07e003c60375)
 
 
