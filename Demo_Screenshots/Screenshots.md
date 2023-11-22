@@ -3,25 +3,27 @@
 ---
 SummingUp is a web application that Sum two values. 
 
-These are the screenshots of it working:
+![image](https://github.com/thairesv/Homework_1/assets/145288735/129cb598-d9cb-4efc-b44c-89048913bec3)
 
-![image](https://github.com/thairesv/Homework1/assets/145288735/ca371da8-11e8-406e-85db-896f76b12748)
 
 This is an example of working on localhost:
 
-![image](https://github.com/thairesv/Homework1/assets/145288735/fbd4961c-f073-4635-88ca-e2340fb7d318)
+![image](https://github.com/thairesv/Homework_1/assets/145288735/77bcd9d6-45eb-4796-9513-4b52579e106a)
+
 
 This is an example of working via localtunnel and with decimal numbers:
 
-![image](https://github.com/thairesv/Homework1/assets/145288735/0b57f6a1-2498-439b-bb11-07e003c60375)
+![image](https://github.com/thairesv/Homework_1/assets/145288735/1c9024be-f6d1-4be4-aea2-713bbed7e736)
 
 
 If anything other than numbers is added the calculator returns an invalid message:
 
-![image](https://github.com/thairesv/Homework1/assets/145288735/91daaf56-c028-4f60-8a84-71b6c883d39c)
+![image](https://github.com/thairesv/Homework_1/assets/145288735/6027e13d-1a1f-417d-8f5f-f53d51def077)
 
-![image](https://github.com/thairesv/Homework1/assets/145288735/ed17a7aa-f84d-44bd-9103-46533500f472)
+![image](https://github.com/thairesv/Homework_1/assets/145288735/eb15e831-34a1-4f3f-97ab-9d792f2b0956)
+
 
 if no number is entered the calculator also returns an invalid message:
 
-![image](https://github.com/thairesv/Homework1/assets/145288735/7db33bab-8004-4e1e-8663-77d75ddf40db)
+![image](https://github.com/thairesv/Homework_1/assets/145288735/a27d5ec8-f0ff-4dde-9e37-52c09bfd5776)
+
